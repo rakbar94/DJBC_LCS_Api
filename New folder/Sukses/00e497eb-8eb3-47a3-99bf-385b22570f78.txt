@@ -1,0 +1,1 @@
+{"idPerusahaan":"013132618073000","statusResponse":"0","description":"SUKSES","data":{"idPerusahaan":"013132618073000","namaPerusahaan":"PRAMBANAN KENCANA PT","nomorInvoice":"HSF22080392","tanggalInvoice":"30-AUG-22","nilaiTransaksi":"3547160","kodeValuta":"THB","jenisTransaksi":null,"nipRekam":"SYSTEM","lcs_NEGARA_MITRA":"TH"}}

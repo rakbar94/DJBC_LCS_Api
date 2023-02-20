@@ -1,0 +1,1 @@
+{"idPerusahaan":"NOMOR_NPWP","statusResponse":"0","description":"SUKSES","data":{"idPerusahaan":"NOMOR_NPWP","namaPerusahaan":"NAMA_PERUSAHAAN","nomorInvoice":"NOMOR_INVOICE","tanggalInvoice":"TGL_INVOICE","nilaiTransaksi":"NILAI_INVOICE","kodeValuta":"JENIS_VALUTA_INVOICE","jenisTransaksi":null,"nipRekam":"SYSTEM","lcs_NEGARA_MITRA":"LCS_NEGARA_MITRA"}}
